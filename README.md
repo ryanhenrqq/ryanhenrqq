@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryanhenrqq
 - 👀 I’m interested in new challenges
-- 🌱 I’m currently learning Python, Java, Kotlin
+- 🌱 I’m currently learning Python, Java, Js
 - 💞️ I’m looking to collaborate on Nothing for now
 - 📫 How to reach me > by email: ryanh8116@gmail.com
 - 😄 Pronouns: he/him
