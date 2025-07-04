@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @ryanhenrqq
-- 👀 I’m interested in new challenges
-- 🌱 I’m currently learning Python, Java, Js
-- 💞️ I’m looking to collaborate on Nothing for now
-- 📫 How to reach me > by email: ryanh8116@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: n/a
+- 👋 Opa! Me Chamo Ryan Henrique *(@ryanhenrqq)*
+- 🌱 Atualmente estou desenvolvendo habilidades em Python e JavaScript-> Para Front-End
+- 💞️ Estou a disposição para colaborar em qualquer projeto!
+- 📫 Você pode entrar em contato pelo e-mail ryanh8116@proton.me
 
 <!---
 ryanhenrqq/ryanhenrqq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
