@@ -13,7 +13,7 @@
 Um projeto feito pra ser simples, com intuito de criar, editar e deletar notas ou tarefas criadas pelo usuário. Escrito em JavaScript, CSS & HTML, com o foco maior no visual e design minimalista e amigável ao usuário final
 
 🔹 **FloodTheCookie (github.com/ryanhenrqq/FloodTheCookie)**  
-Um projeto até bem audacioso, focado em ser um jogo click-to-earn simples, com apelo visual grande, menus intuitivos com blur e um jogo passa tempo. Escrito em JavaScript, CSS & HTML, tem um foco alto no Script de fato.
+Um projeto até bem audacioso, focado em ser um jogo click-to-earn, com apelo visual grande, menus intuitivos com blur e um jogo passa tempo. Escrito em JavaScript, CSS & HTML, tem um foco alto no Script de fato.
 
 ---
 
