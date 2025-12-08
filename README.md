@@ -1,9 +1,32 @@
-- 👋 Opa! Me Chamo Ryan Henrique *(@ryanhenrqq)*
-- 🌱 Atualmente estou desenvolvendo habilidades em Python e JavaScript-> Para Front-End
-- 💞️ Estou a disposição para colaborar em qualquer projeto!
-- 📫 Você pode entrar em contato pelo e-mail ryanh8116@proton.me
+# 👋 Olá, eu sou Ryan Henrique
 
-- 💻 Notebook : Intel Core i3-n305(x8, IG ADL-N), 8gb RAM; *Linux Debian 13*
+- 💻 Desenvolvedor Front-End
+- 🎯 Focado em JavaScript & Python
+- 📍 São Paulo, Brazil 
+- 🚀 Em busca da primeira oportunidade
+
+---
+
+## ⭐ Projetos em Destaque
+
+🔹 **ToDoTasks (github.com/ryanhenrqq/ToDoTasks)**  
+Um projeto feito pra ser simples, com intuito de criar, editar e deletar notas ou tarefas criadas pelo usuário. Escrito em JavaScript, CSS & HTML, com o foco maior no visual e design minimalista e amigável ao usuário final
+
+🔹 **FloodTheCookie (github.com/ryanhenrqq/FloodTheCookie)**  
+Um projeto até bem audacioso, focado em ser um jogo click-to-earn simples, com apelo visual grande, menus intuitivos com blur e um jogo passa tempo. Escrito em JavaScript, CSS & HTML, tem um foco alto no Script de fato.
+
+---
+
+## 📫 Onde me encontrar
+
+- 💼 LinkedIn: https://www.linkedin.com/in/ryan-henrique-791677300/
+- 📧 Email: ryanh8116@proton.me
+
+---
+
+## 🖥️ Equipamentos
+
+- 💻 Notebook : Intel Core i3-n305(x8, IG ADL-N), 8gb RAM; *Debian 13*
 
 <!---
 ryanhenrqq/ryanhenrqq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
