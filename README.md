@@ -2,8 +2,9 @@
 
 - 💻 Desenvolvedor Front-End
 - 🎯 Focado em JavaScript & Python
+- 📝 Aprendendo sobre React & TypeScript
 - 📍 São Paulo, Brazil 
-- 🚀 Em busca da primeira oportunidade
+- 🚀 Buscando uma oprtunidade de vaga Junior na área
 
 ---
 
