@@ -10,11 +10,11 @@
 
 ## ⭐ Projetos em Destaque
 
-🔹 **ToDoTasks (github.com/ryanhenrqq/ToDoTasks)**  
-Um projeto feito pra ser simples, com intuito de criar, editar e deletar notas ou tarefas criadas pelo usuário. Escrito em JavaScript, CSS & HTML, com o foco maior no visual e design minimalista e amigável ao usuário final
+🔹 **OoniquePass (https://www.github.com/ryanhenrqq/OoniquePass)**  
+O OoniquePass é um projeto objetivo, onde a sua principal função é gerar uma senha unica e forte, para ser usada pra fins diversos. O OoniquePass pode gerar senhas usando de letras maiúsculas, minúsculas, numeros e simbolos. Este é um codigo escrito em **Python**, usando de uma lib externa chamada **TkInter** para renderização grafica da janela.
 
-🔹 **FloodTheCookie (github.com/ryanhenrqq/FloodTheCookie)**  
-Um projeto até bem audacioso, focado em ser um jogo click-to-earn, com apelo visual grande, menus intuitivos com blur e um jogo passa tempo. Escrito em JavaScript, CSS & HTML, tem um foco alto no Script de fato.
+🔹 **FloodTheCookie (https://www.github.com/ryanhenrqq/FloodTheCookie)**  
+Um projeto até bem audacioso, focado em ser um jogo click-to-earn, com apelo visual grande, menus intuitivos com blur e um jogo passa tempo. Escrito em **JavaScript, CSS & HTML**, tem um foco alto no Script de fato.
 
 ---
 
@@ -29,9 +29,4 @@ Um projeto até bem audacioso, focado em ser um jogo click-to-earn, com apelo vi
 
 - 💻 Notebook de Trabalho : Macbook Air M4 13", 16gb RAM; MacOS Sequóia 15.7.3
 
-- 💻 Notebook Pessoal : Intel Core i3-n305(x8, IG ADL-N), 8gb RAM; *Debian 13*
-
-<!---
-ryanhenrqq/ryanhenrqq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 Area de Testes : Intel Core i3-n305(x8, IG ADL-N), 8gb RAM; *Debian 13*
