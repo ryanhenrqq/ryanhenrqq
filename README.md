@@ -11,11 +11,11 @@
 ## ⭐ Projetos em Destaque
 
 
-🔹 **OoniquePass (https://www.github.com/ryanhenrqq/OoniquePass)**  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>
+🔹 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)**OoniquePass (https://www.github.com/ryanhenrqq/OoniquePass)**  
 O OoniquePass é um projeto objetivo, onde a sua principal função é gerar uma senha unica e forte, para ser usada pra fins diversos. O OoniquePass pode gerar senhas usando de letras maiúsculas, minúsculas, numeros e simbolos. Este é um codigo escrito em **Python**, usando de uma lib externa chamada **TkInter** para renderização grafica da janela.
 
 
-🔹 **FloodTheCookie (https://www.github.com/ryanhenrqq/FloodTheCookie)**  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)<br>
+🔹 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)**FloodTheCookie (https://www.github.com/ryanhenrqq/FloodTheCookie)**  
 Um projeto até bem audacioso, focado em ser um jogo click-to-earn, com apelo visual grande, menus intuitivos com blur e um jogo passa tempo. Escrito em **JavaScript, CSS & HTML**, tem um foco alto no Script de fato.
 
 ---
