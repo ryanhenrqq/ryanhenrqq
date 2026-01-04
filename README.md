@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Ryan Henrique
 
-- 💻 Desenvolvedor Front-End
+![Python]([https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/desenvolvedor-front_end-blue))<br>
 - 🎯 Focado em JavaScript & Python
 - 📝 Aprendendo sobre React & TypeScript
 - 📍 São Paulo, Brazil 
