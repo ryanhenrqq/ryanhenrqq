@@ -29,6 +29,6 @@ Um projeto até bem audacioso, focado em ser um jogo click-to-earn, com apelo vi
 
 ## 🖥️ Equipamentos
 
-- 💻 Notebook de Trabalho : Macbook Air M4 13", 16gb RAM; MacOS Sequóia 15.7.3
+- 💻 Notebook de Trabalho : M4 (Apple Silicon), 16gb RAM; MacOS 15.7.3
 
 - 💻 Area de Testes : Intel Core i3-n305(x8, IG ADL-N), 8gb RAM; *Debian 13*
