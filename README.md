@@ -1,34 +1,33 @@
-# 👋 Olá, eu sou Ryan Henrique
+# 👋 Hi, i'm Ryan Henrique
 
 - ![Front End Developer](https://img.shields.io/badge/desenvolvedor-front_end-blue)
-- 🎯 Focado em JavaScript & Python
-- 📝 Aprendendo sobre React & TypeScript
+- 🎯 Python & React
+- 📝 Learning TypeScript & Java
 - 📍 São Paulo, Brazil 
-- 🚀 Buscando uma oprtunidade de vaga Junior na área
 
 ---
 
-## ⭐ Projetos em Destaque
+## ⭐ My Best Projects (for now)
 
 
 🔹 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)   **OoniquePass (https://www.github.com/ryanhenrqq/OoniquePass)**  
-O OoniquePass é um projeto objetivo, onde a sua principal função é gerar uma senha unica e forte, para ser usada pra fins diversos. O OoniquePass pode gerar senhas usando de letras maiúsculas, minúsculas, numeros e simbolos. Este é um codigo escrito em **Python**, usando de uma lib externa chamada **TkInter** para renderização grafica da janela.
+OoniquePass is a project whose main function is to generate a unique and strong password for various uses. OoniquePass can generate passwords using uppercase letters, lowercase letters, numbers, and symbols. This code is written in Python, using an external library called TkInter for graphical window rendering.
 
 
 🔹 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)   **FloodTheCookie (https://www.github.com/ryanhenrqq/FloodTheCookie)**  
-Um projeto até bem audacioso, focado em ser um jogo click-to-earn, com apelo visual grande, menus intuitivos com blur e um jogo passa tempo. Escrito em **JavaScript, CSS & HTML**, tem um foco alto no Script de fato.
+This is my favorite project (for being my ambitious project), focused on being a click-to-earn game with strong visual appeal, intuitive menus with blur effects, and a playful way to pass the time. Written in **JavaScript, CSS & HTML**, it has a strong focus on scripting.
 
 ---
 
-## 📫 Onde me encontrar
+## 📫 How can I contact?
 
 - 💼 LinkedIn: https://www.linkedin.com/in/ryan-henrique-791677300/
-- 📧 Email: ryanh8116@proton.me
+- 📧 Mail: ryanh8116@proton.me
 
 ---
 
-## 🖥️ Equipamentos
+## 🖥️ Hardware (or just my equipments)
 
-- 💻 Notebook de Trabalho : M4 (Apple Silicon), 16gb RAM; MacOS 15.7.3
+- 💻 Professional Work : M4 8c/8g (Apple Silicon ARM, Macbook Air 13"), 16gb RAM; MacOS 15.7.3
 
-- 💻 Area de Testes : Intel Core i3-n305(x8, IG ADL-N), 8gb RAM; *Debian 13*
+- 💻 My Testing Labs : Intel Core i3-n305(8c, IG ADL-N), 8gb RAM; *Debian 13 | KDE 6.3*
