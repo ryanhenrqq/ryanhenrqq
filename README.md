@@ -21,7 +21,7 @@ This is my favorite project (for being my ambitious project), focused on being a
 
 ## 📫 How can I contact?
 
-- 💼 LinkedIn: https://www.linkedin.com/in/ryan-henrique-791677300/
+- 💼 LinkedIn: https://www.linkedin.com/in/ryan-silva-791677300/?locale=pt-BR
 - 📧 Mail: ryanh8116@proton.me
 
 ---
