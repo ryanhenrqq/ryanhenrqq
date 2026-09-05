@@ -28,6 +28,4 @@ This is my favorite project (for being my ambitious project), focused on being a
 
 ## 🖥️ Hardware (or just my equipments)
 
-- 💻 Professional Work : M4 8c/8g (Apple Silicon ARM, Macbook Air 13"), 16gb RAM; MacOS 15.7.3
-
-- 💻 My Testing Labs : Intel Core i3-n305(8c, IG ADL-N), 8gb RAM; *Debian 13 | KDE 6.3*
+Intel Core i3-n305(8c, IG ADL-N), 8gb RAM; *W11*
