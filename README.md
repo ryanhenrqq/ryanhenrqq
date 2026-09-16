@@ -1,4 +1,5 @@
 # 👋 Hi, i'm Ryan Henrique
+**(Bienvenído, soy Ryan Henrique! - Bem vindo, eu sou o Ryan Henrique)**
 
 - ![Front End Developer](https://img.shields.io/badge/dev-front_end-blue)
 - 🎯 Python & TypeScript
