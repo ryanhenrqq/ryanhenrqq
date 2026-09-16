@@ -1,8 +1,8 @@
 # 👋 Hi, i'm Ryan Henrique
 
 - ![Front End Developer](https://img.shields.io/badge/dev-front_end-blue)
-- 🎯 Python & React
-- 📝 Learning TypeScript & Java
+- 🎯 Python & TypeScript
+- 📝 Learning Java
 - 📍 São Paulo, Brazil 
 
 ---
