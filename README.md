@@ -12,9 +12,9 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)   
 🔹 **ToDoTasks-Ts (https://www.github.com/ryanhenrqq/ToDoTasks-Ts)**  
-ToDo Tasks is a simple web task manager, made to be simple and quick. It uses the browser built-in  LocalStorage, saving the data in the cache, and restoring it on the next site visit.
+ToDoTasks is a simple web task manager, made to be simple and quick. It uses the browser built-in LocalStorage, saving the data in the cache, and restoring it on the next site visit.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)   
 🔹 **RWeather (https://www.github.com/ryanhenrqq/RWeather)**  
 Real-time weather forecasting web app built with TypeScript, REST API integration, and deployed on Vercel.
 
