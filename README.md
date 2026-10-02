@@ -16,7 +16,7 @@ ToDoTasks is a simple web task manager, made to be simple and quick. It uses the
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)   
 🔹 **RWeather (https://www.github.com/ryanhenrqq/RWeather)**  
-Real-time weather forecasting web app built with TypeScript, REST API integration, and deployed on Vercel.
+Real-time weather forecasting web app built with TypeScript, 2 REST API integration (OpenWeatherMap & BigDataCloud), and deployed on Vercel.
 
 ---
 
