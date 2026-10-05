@@ -29,4 +29,6 @@ Real-time weather forecasting web app built with TypeScript, 2 REST API integrat
 
 ## Hardware (or just my equipments)
 
-Intel Core i3-n305(8c, IG ADL-N), 8gb RAM; *Fedora Workstation 44*
+- Intel Core i3-n305(8c, IG ADL-N), 8gb RAM; *Fedora Workstation 44*.
+- IDE => For Professional Usage: VS Code - *Extensions for Python Intellisense & LiveServer*.
+- IDE => For Personal Usage/Portfólio: Sublime Text.
