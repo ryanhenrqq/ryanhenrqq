@@ -3,7 +3,7 @@
 
 - ![Front End Developer](https://img.shields.io/badge/dev-front_end-blue)
 - 🎯 Python & TypeScript
-- 📝 Learning Java
+- 📝 Learning Java & C
 - 📍 São Paulo, Brazil 
 
 ---
