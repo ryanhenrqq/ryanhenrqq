@@ -29,4 +29,4 @@ Real-time weather forecasting web app built with TypeScript, 2 REST API integrat
 
 ## Hardware (or just my equipments)
 
-Intel Core i3-n305(8c, IG ADL-N), 8gb RAM; *W11*
+Intel Core i3-n305(8c, IG ADL-N), 8gb RAM; *Fedora Workstation 44*
