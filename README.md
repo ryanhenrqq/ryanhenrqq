@@ -3,8 +3,8 @@
 
 - ![Front End Developer](https://img.shields.io/badge/dev-front_end-blue)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)   
-- FOSS Projects Lover
-- São Paulo, Brazil 
+- FOSS Projects User and Helper
+- São Paulo, Brazil
 
 ---
 
