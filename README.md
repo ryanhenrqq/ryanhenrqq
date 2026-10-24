@@ -2,7 +2,7 @@
 **(¡Bienvenído! Soy Ryan Henrique. - Bem vindo! eu sou o Ryan Henrique.)**
 
 - ![Front End Developer](https://img.shields.io/badge/dev-front_end-blue)
-- ![Python]([https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)   
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)   
 - Learning Java & C
 - FOSS Lover
 - São Paulo, Brazil 
