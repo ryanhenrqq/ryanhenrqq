@@ -2,9 +2,8 @@
 **(¡Bienvenído! Soy Ryan Henrique. - Bem vindo! eu sou o Ryan Henrique.)**
 
 - ![Front End Developer](https://img.shields.io/badge/dev-front_end-blue)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)   
-- Learning Java & C
-- FOSS Lover
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)   
+- FOSS Projects Lover
 - São Paulo, Brazil 
 
 ---
@@ -23,13 +22,13 @@ Real-time weather forecasting web app built with TypeScript, SUPABASE feedback i
 
 ## Contact me here
 
-- 💼 LinkedIn: https://www.linkedin.com/in/ryan-silva-791677300/?locale=pt-BR
-- 📧 Mail: ryanh8116@proton.me
+- LinkedIn: https://www.linkedin.com/in/ryan-silva-791677300/?locale=pt-BR
+- Mail: ryanh8116@proton.me
 
 ---
 
 ## Hardware (or just my equipments)
 
 - Intel Core i3-n305(8c, IG ADL-N), 8gb RAM; *Fedora Workstation 44*.
-- IDE => For Professional Usage: VS Code - *Extensions for Python Intellisense & LiveServer*.
+- IDE => For Professional Usage/TypeScript: VS Code - *Default extensions for Python, C/C++ & LiveServer*.
 - IDE => For Personal Usage/Portfólio: Sublime Text.
